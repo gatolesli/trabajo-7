@@ -1,0 +1,20 @@
+{
+  " nombre " : " ejemplo-entrada " ,
+  " versión " : " 1.0.0 " ,
+  " descripción " : "  " ,
+  " main " : " index.html " ,
+  " scripts " : {
+    " start " : " parcel index.html --open " ,
+    " build " : " parcel build index.html "
+  },
+  " dependencias " : {
+    " paquet-bundler " : " ^ 1.6.1 "
+  },
+  " devDependencies " : {
+    " @ babel / core " : " 7.2.0 "
+  },
+  " resoluciones " : {
+    " @ babel / preset-env " : " 7.13.8 "
+  },
+  " palabras clave " : []
+}
